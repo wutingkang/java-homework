@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/GraphInterface/src/homework5/_2014211466_吴挺康_5_GraphInterface.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="homework5._2014211466_吴挺康_5_GraphInterface"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="GraphInterface"/>
+</launchConfiguration>
